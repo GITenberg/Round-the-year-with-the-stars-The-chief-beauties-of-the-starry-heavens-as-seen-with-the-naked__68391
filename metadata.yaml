@@ -1,0 +1,34 @@
+_repo: Round-the-year-with-the-stars-The-chief-beauties-of-the-starry-heavens-as-seen-with-the-naked__68391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: https://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68391'
+  lccn: '10019940'
+language: en
+pgterms:marc904: https://archive.org/details/roundyearwithsta00servrich/page/n5/mode/2up
+pgterms:marc905: 20211102051750serviss
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Harper & Brothers Publishers,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- Popular works'
+- GITenberg
+title: "Round the year with the stars\r\nThe chief beauties of the starry heavens\
+  \ as seen with the naked eye"
+url: http://www.gutenberg.org/ebooks/68391
